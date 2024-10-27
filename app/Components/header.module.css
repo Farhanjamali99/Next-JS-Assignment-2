@@ -1,0 +1,15 @@
+/* styles/Header.module.css */
+.header {
+    background-color: #75756b;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .header nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+  }
